@@ -2,12 +2,6 @@
 
 [Incluir imagem ou logo do projeto aqui]
 
-## Sobre
-
-O HelpDevas é um projeto que visa criar um site responsável por registrar aspirantes à doutrina do Vale do Amanhecer. Esta etapa inicial do projeto se concentra no desenvolvimento do backend, onde toda a lógica por trás da aplicação será implementada.
-
-Este backend será responsável por gerenciar o registro de aspirantes, armazenando informações importantes sobre eles e fornecendo funcionalidades essenciais para a plataforma. Isso inclui autenticação de usuários, manipulação de dados do usuário, integração com bancos de dados e outras tarefas fundamentais para o funcionamento do sistema.
-
 ## Índice
 
 - [Sobre](#sobre)
@@ -17,6 +11,13 @@ Este backend será responsável por gerenciar o registro de aspirantes, armazena
 - [Tecnologias](#tecnologias)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
+
+
+## Sobre
+
+O HelpDevas é um projeto que visa criar um site responsável por registrar aspirantes à doutrina do Vale do Amanhecer. Esta etapa inicial do projeto se concentra no desenvolvimento do backend, onde toda a lógica por trás da aplicação será implementada.
+
+Este backend será responsável por gerenciar o registro de aspirantes, armazenando informações importantes sobre eles e fornecendo funcionalidades essenciais para a plataforma. Isso inclui autenticação de usuários, manipulação de dados do usuário, integração com bancos de dados e outras tarefas fundamentais para o funcionamento do sistema.
 
 ## Funcionalidades
 
